@@ -29,8 +29,9 @@ Churnlytics predicts whether a telecom customer will churn based on factors like
 
 ## Installation & Usage  
 1. Clone the repository  
-   ```bash
+
   [https://github.com/geekyme-dev/Churn_Predictor]
+  
    cd Churnlytics 
    ```  
 2. Install dependencies  
